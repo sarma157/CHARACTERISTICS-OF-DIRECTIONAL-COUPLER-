@@ -66,10 +66,6 @@ Directivity (dB) = P3-P4
 
 ---
 
-## Observation
-
-*(Include your own calculation relevant to the experiment.)*
-
 
 ## Precautions
 
@@ -81,5 +77,5 @@ Directivity (dB) = P3-P4
 
 ## Conclusion
 
-*(Write your own.)*
-
+Hence the process is completed successfully
+ 
